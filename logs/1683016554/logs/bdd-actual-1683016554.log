@@ -1,0 +1,15 @@
+<br> 02-May-23 16:36:05 - INFO - Accessed website : https://d-9367049c0e.awsapps.com/start#/
+<br> 02-May-23 16:36:21 - INFO - Send user t.libres@arcanys.com
+<br> 02-May-23 16:36:21 - INFO - Click NEXT button with XPATH : //button[@class='awsui-button awsui-button-variant-primary awsui-hover-child-icons']
+<br> 02-May-23 16:36:23 - INFO - Sleep 2 seconds to load.
+<br> 02-May-23 16:36:23 - INFO - Inputted Password and Clicked Nex button.
+<br> 02-May-23 16:36:26 - INFO - Acquired 2FA OTP from AWS : 859571
+<br> 02-May-23 16:36:36 - INFO - Sleep for 8 seconds to load the page.
+<br> 02-May-23 16:37:39 - INFO - Actual time : 0s
+<br> 02-May-23 16:37:39 - INFO - OPEN
+<br> 02-May-23 16:37:39 - INFO - Notification value : OPEN
+<br> 02-May-23 16:37:42 - INFO - Button : NOTIFICATION ARCHIVED
+<br> 02-May-23 16:37:42 - INFO - Return button was clicked.
+<br> 02-May-23 16:37:43 - INFO - Notification : RCP1002837402112AU
+<br> 02-May-23 16:37:43 - INFO - Notification is archived.
+<br> 02-May-23 16:37:49 - INFO - Result : Pass

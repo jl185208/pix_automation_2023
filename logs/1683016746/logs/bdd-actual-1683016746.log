@@ -1,0 +1,35 @@
+<br> 02-May-23 16:39:07 - INFO - <b>Starting Automation for Scenario :</b> Validate settings pag
+<br> 02-May-23 16:39:10 - INFO - Accessed site : https://main.d3n66fgxolf0qz.amplifyapp.com/settings
+<br> 02-May-23 16:39:13 - INFO - Version : Welcome! v0.1.1
+<br> 02-May-23 16:39:13 - INFO - Welcome message is displayed, website text : Welcome! v0.1.1
+<br> 02-May-23 16:39:13 - INFO - Button : Fire notification!
+<br> 02-May-23 16:39:14 - INFO - Button is clicked to fire notification.
+<br> 02-May-23 16:39:14 - INFO - Popped notification : You have new notifications!
+<br> 02-May-23 16:39:15 - INFO - Testcycle # : OCS-R621
+<br> 02-May-23 16:39:16 - INFO - <b>Starting Automation for Scenario :</b> Validate fired notifications and mark as solved
+<br> 02-May-23 16:39:16 - INFO - Notification button is clicked.
+<br> 02-May-23 16:39:21 - INFO - Actual time : 4s
+<br> 02-May-23 16:39:21 - INFO - OPEN
+<br> 02-May-23 16:39:21 - INFO - Notification value : OPEN
+<br> 02-May-23 16:39:24 - INFO - Button : NOTIFICATION ARCHIVED
+<br> 02-May-23 16:39:24 - INFO - Return button was clicked.
+<br> 02-May-23 16:39:25 - INFO - Notification : RCP1002837402112
+<br> 02-May-23 16:39:25 - INFO - Notification is archived.
+<br> 02-May-23 16:39:31 - INFO - <b>Starting Automation for Scenario :</b> Validate dashboard pag
+<br> 02-May-23 16:39:33 - INFO - Welcome text in dashboard page : Welcome Back, Clark
+<br> 02-May-23 16:39:34 - INFO - Welcome back message is displayed in dashboard.
+<br> 02-May-23 16:39:44 - INFO - Accessed website : https://d-9367049c0e.awsapps.com/start#/
+<br> 02-May-23 16:39:59 - INFO - Send user t.libres@arcanys.com
+<br> 02-May-23 16:39:59 - INFO - Click NEXT button with XPATH : //button[@class='awsui-button awsui-button-variant-primary awsui-hover-child-icons']
+<br> 02-May-23 16:40:01 - INFO - Sleep 2 seconds to load.
+<br> 02-May-23 16:40:01 - INFO - Inputted Password and Clicked Nex button.
+<br> 02-May-23 16:40:04 - INFO - Acquired 2FA OTP from AWS : 036844
+<br> 02-May-23 16:40:14 - INFO - Sleep for 8 seconds to load the page.
+<br> 02-May-23 16:41:17 - INFO - Actual time : 0s
+<br> 02-May-23 16:41:17 - INFO - OPEN
+<br> 02-May-23 16:41:17 - INFO - Notification value : OPEN
+<br> 02-May-23 16:41:20 - INFO - Button : NOTIFICATION ARCHIVED
+<br> 02-May-23 16:41:21 - INFO - Return button was clicked.
+<br> 02-May-23 16:41:22 - INFO - Notification : RCP1002837402112AU
+<br> 02-May-23 16:41:22 - INFO - Notification is archived.
+<br> 02-May-23 16:41:27 - INFO - Result : Pass

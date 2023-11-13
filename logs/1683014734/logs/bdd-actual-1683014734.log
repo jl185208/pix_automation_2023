@@ -1,0 +1,38 @@
+<br> 02-May-23 16:05:36 - INFO - <b>Starting Automation for Scenario :</b> Validate settings pag
+<br> 02-May-23 16:05:39 - INFO - Accessed site : https://main.d3n66fgxolf0qz.amplifyapp.com/settings
+<br> 02-May-23 16:05:42 - INFO - Version : Welcome! v0.1.1
+<br> 02-May-23 16:05:42 - INFO - Welcome message is displayed, website text : Welcome! v0.1.1
+<br> 02-May-23 16:05:42 - INFO - Button : Fire notification!
+<br> 02-May-23 16:05:43 - INFO - Button is clicked to fire notification.
+<br> 02-May-23 16:05:43 - INFO - Popped notification : You have new notifications!
+<br> 02-May-23 16:05:44 - INFO - Testcycle # : OCS-R619
+<br> 02-May-23 16:05:45 - INFO - OCS-T1288 : ['Pass']
+<br> 02-May-23 16:05:45 - INFO - <b>Starting Automation for Scenario :</b> Validate fired notifications and mark as solved
+<br> 02-May-23 16:05:45 - INFO - Notification button is clicked.
+<br> 02-May-23 16:05:50 - INFO - Actual time : 4s
+<br> 02-May-23 16:05:50 - INFO - OPEN
+<br> 02-May-23 16:05:50 - INFO - Notification value : OPEN
+<br> 02-May-23 16:05:53 - INFO - Button : NOTIFICATION ARCHIVED
+<br> 02-May-23 16:05:53 - INFO - Return button was clicked.
+<br> 02-May-23 16:05:54 - INFO - Notification : RCP1002837402112
+<br> 02-May-23 16:05:54 - INFO - Notification is archived.
+<br> 02-May-23 16:06:00 - INFO - OCS-T1289 : ['Pass']
+<br> 02-May-23 16:06:00 - INFO - <b>Starting Automation for Scenario :</b> Validate dashboard pag
+<br> 02-May-23 16:06:02 - INFO - Welcome text in dashboard page : Welcome Back, Clark
+<br> 02-May-23 16:06:03 - INFO - Welcome back message is displayed in dashboard.
+<br> 02-May-23 16:06:03 - INFO - OCS-T1290 : ['Pass']
+<br> 02-May-23 16:06:12 - INFO - Accessed website : https://d-9367049c0e.awsapps.com/start#/
+<br> 02-May-23 16:06:27 - INFO - Send user t.libres@arcanys.com
+<br> 02-May-23 16:06:27 - INFO - Click NEXT button with XPATH : //button[@class='awsui-button awsui-button-variant-primary awsui-hover-child-icons']
+<br> 02-May-23 16:06:29 - INFO - Sleep 2 seconds to load.
+<br> 02-May-23 16:06:29 - INFO - Inputted Password and Clicked Nex button.
+<br> 02-May-23 16:06:33 - INFO - Acquired 2FA OTP from AWS : 458081
+<br> 02-May-23 16:06:43 - INFO - Sleep for 8 seconds to load the page.
+<br> 02-May-23 16:07:46 - INFO - Actual time : 0s
+<br> 02-May-23 16:07:46 - INFO - OPEN
+<br> 02-May-23 16:07:46 - INFO - Notification value : OPEN
+<br> 02-May-23 16:07:49 - INFO - Button : NOTIFICATION ARCHIVED
+<br> 02-May-23 16:07:49 - INFO - Return button was clicked.
+<br> 02-May-23 16:07:50 - INFO - Notification : RCP1002837402112AU
+<br> 02-May-23 16:07:50 - INFO - Notification is archived.
+<br> 02-May-23 16:07:56 - INFO - OCS-T1325 : ['Pass']

@@ -1,0 +1,39 @@
+<br> 02-May-23 16:22:44 - INFO - Accessed website : https://d-9367049c0e.awsapps.com/start#/
+<br> 02-May-23 16:22:59 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\TLibres\pix_automation\core\common.py", line 71, in create_notif_dynamodb
+    username = browser.find_element('id', 'awsui-input-0')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TLibres\pix_automation\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 831, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TLibres\pix_automation\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 440, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TLibres\pix_automation\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 245, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x0117DCE3]
+	(No symbol) [0x011139D1]
+	(No symbol) [0x01024DA8]
+	(No symbol) [0x0100D0D3]
+	(No symbol) [0x0106EA8B]
+	(No symbol) [0x0107D093]
+	(No symbol) [0x0106ACC6]
+	(No symbol) [0x01046F68]
+	(No symbol) [0x010480CD]
+	GetHandleVerifier [0x013F3832+2506274]
+	GetHandleVerifier [0x01429794+2727300]
+	GetHandleVerifier [0x0142E36C+2746716]
+	GetHandleVerifier [0x01226690+617600]
+	(No symbol) [0x0111C712]
+	(No symbol) [0x01121FF8]
+	(No symbol) [0x011220DB]
+	(No symbol) [0x0112C63B]
+	BaseThreadInitThunk [0x7676FEF9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F57BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76F57B8E+238]
+
